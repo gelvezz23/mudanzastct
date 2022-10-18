@@ -1,0 +1,18 @@
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    background: white;
+  }
+  
+  footer p {
+    margin: 0px;
+  }
+  
+  footer a {
+    outline: none;
+    text-decoration: none;
+    font-weight: bolder;
+    color: #ff4040;
+  }

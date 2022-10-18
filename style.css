@@ -1,0 +1,22 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Montserrat", "Roboto", sans-serif;
+  }
+  h2 {
+    font-family: "Gluten", cursive;
+  }
+  
+  h1.title {
+    color: white;
+  }
+  h3.title {
+    color: white;
+  }
+  
+  h2.title {
+    font-weight: 700;
+    font-size: 1.3em;
+    color: white;
+  }

@@ -1,0 +1,24 @@
+.services {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    background: rgb(177, 67, 67);
+    background: linear-gradient(
+      180deg,
+      rgba(177, 67, 67, 1) 0%,
+      rgba(255, 64, 64, 1) 100%
+    );
+  }
+  
+  .card-image {
+    width: 0.5em;
+    height: auto;
+  }
+  
+  @media (max-width: 600px) {
+    .services {
+      height: 100%;
+    }
+  }
